@@ -13,6 +13,8 @@ N/A
 
 Just run the code and open console for seeing the results.
 
+![console-finances](https://github.com/AshivaA/console-finances/assets/136107176/be748b32-f6ae-46bf-b419-a7aa4b93e7c6)
+
 
 ## Link to GitHub repository
 [GitHub Repo](https://github.com/AshivaA/console-finances.git)
